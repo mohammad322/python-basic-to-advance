@@ -1,0 +1,8 @@
+#for time 
+import time
+time = time.asctime(time.localtime(time.time()))
+print(time)
+
+#here start python program with print statement
+print("Bismillahir Rohmanir Rahim")
+print("this is my first programm")
